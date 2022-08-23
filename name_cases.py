@@ -16,4 +16,3 @@ print(message);
 famous_person = famous_person.strip();
 message = f'\t{famous_person} once said, "A person who never made \n\ta mistake never tried anything new."';
 print(message);
-import this;
